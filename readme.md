@@ -1,6 +1,11 @@
 
 #### Olá, me chamo Otávio e me divirto aplicando os conhecimentos em automação e programação para automatizar tarefas, processos e solucionar problemas. Gosto de estudar o mercado financeiro e realizar análises com a programação para identificar as possíveis tendências. Minha linguagem de programação preferida é Python, por possuir uma sintaxe simples, ferramentas e bibliotecas poderosas e ter uma comunidade bastante ativa.
 
+<div style="margin-top: 10px;"> 
+  <a href="https://www.instagram.com/otaviorochafaria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:otavior68@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/otaviofaria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   <div style="display: inline_block" aling="center"><br>
      
    ![Snake animation](https://github.com/Otavio15/otavio15/blob/output/github-contribution-grid-snake.svg)
