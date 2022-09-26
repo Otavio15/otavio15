@@ -19,8 +19,8 @@
   <img align="" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-  <img align="" alt="Rafa-HTML" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-    <img align="" alt="Rafa-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
+  <img align="" alt="Rafa-HTML" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+    <img align="" alt="Rafa-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
     <img align="" alt="Rafa-HTML" height="30" width="40" src="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667">
     
 </div>
