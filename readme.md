@@ -1,5 +1,5 @@
 
-#### Olá, me chamo Otávio e me divirto aplicando os conhecimentos em automação e programação para automatizar tarefas, processos e solucionar problemas. Gosto de estudar o mercado financeiro e realizar análises com a programação para identificar as possíveis tendências. Minha linguagem de programação preferida é Python, por possuir uma sintaxe simples, ferramentas e bibliotecas poderosas e ter uma comunidade bastante ativa.
+#### Me chamo Otávio, gosto de trabalhar com as linguagens de programação Python, JavaScript, Dart... Sou entusiasta do mercado financeiro, automação e análise de dados.
 
 <div style="margin-top: 10px;"> 
   <a href="https://www.instagram.com/otaviorochafaria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
